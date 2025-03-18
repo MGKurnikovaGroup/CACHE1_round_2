@@ -1,0 +1,939 @@
+/ocean/projects/mcb180100p/egutkin/cache2/1-hit1-pv0017/s0f0-ch2nh
+Warning on use of the timeseries module: If the inherent timescales of the system are long compared to those being analyzed, this statistical inefficiency may be an underestimate.  The estimate presumes the use of many statistically independent samples.  Tests should be performed to assess whether this condition is satisfied.   Be cautious in the interpretation of the data.
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+0.01592
+[-6.496300586404583, 11.585647282790543, 29.66759515198567, 47.7495430211808, 65.83149089037593, 83.91343875957105] 12.759299011940868
+DL Divergence 0.180853757707512
+Beginning restart 1
+[-9.225427856463188, 20.114547416373817, 49.45452268921082, 78.79449796204783, 108.13447323488484, 137.47444850772183] 13.372052663909157
+DL Divergence 0.1411119257762926
+Beginning restart 2
+[-21.36320281885177, 7.502787579090516, 36.368777977032806, 65.23476837497509, 94.10075877291739, 122.96674917085967] 13.79022809625434
+DL Divergence 0.07961448199060168
+0.08198
+[-44.09839775156081, -27.873689403534293, -11.648981055507768, 4.575727292518749, 20.800435640545274, 37.0251439885718] 7.375604832705097
+DL Divergence 0.08289895596785106
+0.19331
+[-20.40051988841596, -6.66279436349096, 7.074931161434037, 20.81265668635904, 34.55038221128405, 48.288107736209035] 17.868990155181507
+DL Divergence 0.13094032055310945
+Beginning restart 1
+[-19.020524187692406, -3.0823873825812456, 12.855749422529911, 28.793886227641075, 44.732023032752245, 60.67015983786339] 17.40653140388762
+DL Divergence 0.07048038134927768
+0.33787
+[-23.439989833639448, -6.522947258845576, 10.394095315948292, 27.311137890742167, 44.22818046553605, 61.1452230403299] 2.209636971633805
+DL Divergence 0.28100338804260033
+Beginning restart 1
+[-34.11687056458433, -15.420347867966314, 3.2761748286517047, 21.972697525269723, 40.66922022188774, 59.36574291850576] 1.3560089029596663
+DL Divergence 0.12118591885757508
+Beginning restart 2
+[-33.65352518839807, -14.493657115593791, 4.666210957210488, 23.826079030014768, 42.985947102819054, 62.145815175623326] 5.341172128654341
+DL Divergence 0.09908756868408897
+0.5
+[-30.45841663031102, -19.84791295211934, -9.237409273927664, 1.373094404264016, 11.9835980824557, 22.59410176064737] -7.8592826743285755
+DL Divergence 0.17612658186605312
+Beginning restart 1
+[-52.116841575487506, -37.89660040643308, -23.676359237378655, -9.45611806832423, 4.7641231007302025, 18.98436426978462] -8.25196165030935
+DL Divergence 0.12093671497698132
+Beginning restart 2
+[-50.43242201982652, -34.52776129511111, -18.6231005703957, -2.718439845680294, 13.186220879035119, 29.090881603750532] -8.79275490898599
+DL Divergence 0.11072358972460442
+Beginning restart 3
+[-44.54695805859591, -22.756833372649893, -0.9667086867038819, 20.823415999242144, 42.61354068518817, 64.40366537113417] -9.734194786257284
+DL Divergence 0.09450933922730796
+0.66213
+[-59.307177749939385, -47.47437778769161, -35.64157782544383, -23.808777863196056, -11.97597790094828, -0.14317793870050366] -36.39082378516745
+DL Divergence 0.10975808706144498
+Beginning restart 1
+[-61.31660523574179, -49.148900692526944, -36.981196149312105, -24.81349160609726, -12.645787062882412, -0.47808251966758064] -36.45028756004365
+DL Divergence 0.09265860829763267
+0.80669
+[-84.62511099412608, -69.21269482452124, -53.80027865491641, -38.38786248531158, -22.975446315706748, -7.563030146101923] -54.51133983718073
+DL Divergence 0.1415987619617062
+Beginning restart 1
+[-80.06292270334218, -65.41087124886799, -50.758819794393816, -36.10676833991963, -21.45471688544545, -6.802665430971274] -55.2576982752954
+DL Divergence 0.1024557324783615
+Beginning restart 2
+[-82.49666010723156, -70.46571146295625, -58.43476281868096, -46.40381417440565, -34.37286553013035, -22.341916885855056] -56.455863984578045
+DL Divergence 0.1812918065840547
+Beginning restart 3
+[-83.68385083811675, -71.03487671818878, -58.38590259826083, -45.736928478332864, -33.0879543584049, -20.438980238476944] -55.76192424787046
+DL Divergence 0.16329948657724264
+Beginning restart 4
+[-82.27876604922258, -68.22470714040045, -54.170648231578326, -40.1165893227562, -26.06253041393407, -12.008471505111942] -54.14038317106306
+DL Divergence 0.16500671009755416
+Beginning restart 5
+[-85.31952998753223, -71.81076935035338, -58.30200871317455, -44.793248075995706, -31.284487438816853, -17.77572680163803] -54.089222518489734
+DL Divergence 0.16555616526729425
+Beginning restart 6
+[-76.90658601217015, -60.71621640659683, -44.5258468010235, -28.335477195450167, -12.14510758987683, 4.045262015696494] -55.236730794732566
+DL Divergence 0.16171892031755578
+Beginning restart 7
+[-76.90658601217015, -60.71621640659683, -44.5258468010235, -28.335477195450167, -12.14510758987683, 4.045262015696494] -53.595815765885106
+DL Divergence 0.19915811658924185
+Beginning restart 8
+[-76.90658601217015, -60.71621640659683, -44.5258468010235, -28.335477195450167, -12.14510758987683, 4.045262015696494] -54.582964750783376
+DL Divergence 0.1488368130240523
+0.91802
+[-148.31324611428167, -130.27670781727693, -112.24016952027216, -94.20363122326741, -76.16709292626264, -58.13055462925789] -86.72351248601967
+DL Divergence 0.2383267087878542
+Beginning restart 1
+[-123.12248363506295, -106.5522312073609, -89.98197877965887, -73.41172635195683, -56.841473924254785, -40.27122149655274] -84.88827084731584
+DL Divergence 0.1352349521884642
+Beginning restart 2
+[-125.78839694657897, -108.77382563362426, -91.75925432066956, -74.74468300771484, -57.730111694760126, -40.71554038180541] -83.85767724269138
+DL Divergence 0.0971769036178253
+0.98408
+[-268.6252007290324, -238.68974900821084, -208.7542972873893, -178.8188455665678, -148.88339384574627, -118.94794212492477] -153.22338674965144
+DL Divergence 0.1202070238930353
+Beginning restart 1
+[-241.129980340366, -215.64770997423656, -190.1654396081071, -164.68316924197768, -139.20089887584822, -113.71862850971877] -151.51478869354713
+DL Divergence 0.15861426776841783
+Beginning restart 2
+[-179.14131343620673, -159.39248680651863, -139.6436601768305, -119.8948335471424, -100.14600691745427, -80.39718028776616] -135.62286421559648
+DL Divergence 0.1942313580517212
+Beginning restart 3
+[-249.91890119576334, -225.9563777836631, -201.99385437156286, -178.03133095946265, -154.0688075473624, -130.1062841352622] -153.12685246914015
+DL Divergence 0.32747385964938097
+Beginning restart 4
+[-209.01980549840215, -182.80695622095877, -156.59410694351536, -130.38125766607197, -104.16840838862854, -77.95555911118515] -145.06963677829842
+DL Divergence 0.28288255310519095
+Beginning restart 5
+[-197.96203550626151, -176.62603050505413, -155.29002550384672, -133.9540205026393, -112.61801550143191, -91.28201050022452] -140.33190874024245
+DL Divergence 0.24369095835414586
+Beginning restart 6
+[-231.7723495235997, -202.8632260227853, -173.95410252197092, -145.0449790211565, -116.13585552034209, -87.2267320195277] -148.04399970101994
+DL Divergence 0.2183273243704616
+Beginning restart 7
+[-207.7936511979225, -188.6696794518418, -169.5457077057611, -150.4217359596804, -131.2977642135997, -112.17379246751898] -144.89099384390306
+DL Divergence 0.1960232438183532
+Beginning restart 8
+[-212.74789543097899, -185.32034608815198, -157.89279674532497, -130.46524740249794, -103.0376980596709, -75.6101487168439] -140.35128269228252
+DL Divergence 0.0808421945727906
+Warning on use of the timeseries module: If the inherent timescales of the system are long compared to those being analyzed, this statistical inefficiency may be an underestimate.  The estimate presumes the use of many statistically independent samples.  Tests should be performed to assess whether this condition is satisfied.   Be cautious in the interpretation of the data.
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+ERROR: Calculation halted.  Periodic box dimensions have changed too much from their initial values.
+  Your system density has likely changed by a large amount, probably from
+  starting the simulation from a structure a long way from equilibrium.
+
+  [Although this error can also occur if the simulation has blown up for some reason]
+
+  The GPU code does not automatically reorganize grid cells and thus you
+  will need to restart the calculation from the previous restart file.
+  This will generate new grid cells and allow the calculation to continue.
+  It may be necessary to repeat this restarting multiple times if your system
+  is a long way from an equilibrated density.
+
+  Alternatively you can run with the CPU code until the density has converged
+  and then switch back to the GPU code.
+
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+ERROR: Calculation halted.  Periodic box dimensions have changed too much from their initial values.
+  Your system density has likely changed by a large amount, probably from
+  starting the simulation from a structure a long way from equilibrium.
+
+  [Although this error can also occur if the simulation has blown up for some reason]
+
+  The GPU code does not automatically reorganize grid cells and thus you
+  will need to restart the calculation from the previous restart file.
+  This will generate new grid cells and allow the calculation to continue.
+  It may be necessary to repeat this restarting multiple times if your system
+  is a long way from an equilibrated density.
+
+  Alternatively you can run with the CPU code until the density has converged
+  and then switch back to the GPU code.
+
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+ERROR: Calculation halted.  Periodic box dimensions have changed too much from their initial values.
+  Your system density has likely changed by a large amount, probably from
+  starting the simulation from a structure a long way from equilibrium.
+
+  [Although this error can also occur if the simulation has blown up for some reason]
+
+  The GPU code does not automatically reorganize grid cells and thus you
+  will need to restart the calculation from the previous restart file.
+  This will generate new grid cells and allow the calculation to continue.
+  It may be necessary to repeat this restarting multiple times if your system
+  is a long way from an equilibrated density.
+
+  Alternatively you can run with the CPU code until the density has converged
+  and then switch back to the GPU code.
+
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+ERROR: Calculation halted.  Periodic box dimensions have changed too much from their initial values.
+  Your system density has likely changed by a large amount, probably from
+  starting the simulation from a structure a long way from equilibrium.
+
+  [Although this error can also occur if the simulation has blown up for some reason]
+
+  The GPU code does not automatically reorganize grid cells and thus you
+  will need to restart the calculation from the previous restart file.
+  This will generate new grid cells and allow the calculation to continue.
+  It may be necessary to repeat this restarting multiple times if your system
+  is a long way from an equilibrated density.
+
+  Alternatively you can run with the CPU code until the density has converged
+  and then switch back to the GPU code.
+
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+ERROR: Calculation halted.  Periodic box dimensions have changed too much from their initial values.
+  Your system density has likely changed by a large amount, probably from
+  starting the simulation from a structure a long way from equilibrium.
+
+  [Although this error can also occur if the simulation has blown up for some reason]
+
+  The GPU code does not automatically reorganize grid cells and thus you
+  will need to restart the calculation from the previous restart file.
+  This will generate new grid cells and allow the calculation to continue.
+  It may be necessary to repeat this restarting multiple times if your system
+  is a long way from an equilibrated density.
+
+  Alternatively you can run with the CPU code until the density has converged
+  and then switch back to the GPU code.
+
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+ERROR: Calculation halted.  Periodic box dimensions have changed too much from their initial values.
+  Your system density has likely changed by a large amount, probably from
+  starting the simulation from a structure a long way from equilibrium.
+
+  [Although this error can also occur if the simulation has blown up for some reason]
+
+  The GPU code does not automatically reorganize grid cells and thus you
+  will need to restart the calculation from the previous restart file.
+  This will generate new grid cells and allow the calculation to continue.
+  It may be necessary to repeat this restarting multiple times if your system
+  is a long way from an equilibrated density.
+
+  Alternatively you can run with the CPU code until the density has converged
+  and then switch back to the GPU code.
+
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+ERROR: Calculation halted.  Periodic box dimensions have changed too much from their initial values.
+  Your system density has likely changed by a large amount, probably from
+  starting the simulation from a structure a long way from equilibrium.
+
+  [Although this error can also occur if the simulation has blown up for some reason]
+
+  The GPU code does not automatically reorganize grid cells and thus you
+  will need to restart the calculation from the previous restart file.
+  This will generate new grid cells and allow the calculation to continue.
+  It may be necessary to repeat this restarting multiple times if your system
+  is a long way from an equilibrated density.
+
+  Alternatively you can run with the CPU code until the density has converged
+  and then switch back to the GPU code.
+
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+ERROR: Calculation halted.  Periodic box dimensions have changed too much from their initial values.
+  Your system density has likely changed by a large amount, probably from
+  starting the simulation from a structure a long way from equilibrium.
+
+  [Although this error can also occur if the simulation has blown up for some reason]
+
+  The GPU code does not automatically reorganize grid cells and thus you
+  will need to restart the calculation from the previous restart file.
+  This will generate new grid cells and allow the calculation to continue.
+  It may be necessary to repeat this restarting multiple times if your system
+  is a long way from an equilibrated density.
+
+  Alternatively you can run with the CPU code until the density has converged
+  and then switch back to the GPU code.
+
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+
+CPPTRAJ: Trajectory Analysis. V5.1.0
+    ___  ___  ___  ___
+     | \/ | \/ | \/ | 
+    _|_/\_|_/\_|_/\_|_
+
+| Date/time: 02/20/23 15:52:03
+| Available memory: 89.305 GB
+
+	Reading '../ligwat.prmtop' as Amber Topology
+	Radius Set: modified Bondi radii (mbondi)
+	Reading 'prod/ligwat_prod_00.rst' as Amber NC Restart
+INPUT: Reading input from '../cpp.autoimage.in'
+  [autoimage]
+    AUTOIMAGE: To box center based on center of mass, anchor is first molecule.
+  [trajout autoimage.rst]
+	Writing 'autoimage.rst' as Amber Restart
+---------- RUN BEGIN -------------------------------------------------
+
+PARAMETER FILES (1 total):
+ 0: ligwat.prmtop, 6733 atoms, 2213 res, box: Orthorhombic, 2213 mol, 2211 solvent
+
+INPUT TRAJECTORIES (1 total):
+ 0: 'ligwat_prod_00.rst' is a NetCDF AMBER restart file with coordinates, velocities, time, box, Parm ligwat.prmtop (Orthorhombic box) (reading 1 of 1)
+  Coordinate processing will occur on 1 frames.
+
+OUTPUT TRAJECTORIES (1 total):
+  'autoimage.rst' (1 frames) is an AMBER restart file
+
+BEGIN TRAJECTORY PROCESSING:
+.....................................................
+ACTION SETUP FOR PARM 'ligwat.prmtop' (1 actions):
+  0: [autoimage]
+	Using first molecule as anchor.
+	1 molecules are fixed to anchor: 2
+	2211 molecules are mobile.
+.....................................................
+ACTIVE OUTPUT TRAJECTORIES (1):
+  autoimage.rst (coordinates, velocities, time, box)
+----- ligwat_prod_00.rst (1-1, 1) -----
+100% Complete.
+
+Read 1 frames and processed 1 frames.
+TIME: Avg. throughput= 42.5478 frames / second.
+
+ACTION OUTPUT:
+TIME: Analyses took 0.0000 seconds.
+
+RUN TIMING:
+TIME:		Init               : 0.0004 s (  1.42%)
+TIME:		Trajectory Process : 0.0235 s ( 87.94%)
+TIME:		Action Post        : 0.0000 s (  0.00%)
+TIME:		Analysis           : 0.0000 s (  0.00%)
+TIME:		Data File Write    : 0.0004 s (  1.47%)
+TIME:		Other              : 0.0024 s (  0.09%)
+TIME:	Run Total 0.0267 s
+---------- RUN END ---------------------------------------------------
+TIME: Total execution time: 0.3505 seconds.
+--------------------------------------------------------------------------------
+To cite CPPTRAJ use:
+Daniel R. Roe and Thomas E. Cheatham, III, "PTRAJ and CPPTRAJ: Software for
+  Processing and Analysis of Molecular Dynamics Trajectory Data". J. Chem.
+  Theory Comput., 2013, 9 (7), pp 3084-3095.
+
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+
+CPPTRAJ: Trajectory Analysis. V5.1.0
+    ___  ___  ___  ___
+     | \/ | \/ | \/ | 
+    _|_/\_|_/\_|_/\_|_
+
+| Date/time: 02/20/23 15:54:16
+| Available memory: 88.829 GB
+
+	Reading '../ligwat.prmtop' as Amber Topology
+	Radius Set: modified Bondi radii (mbondi)
+	Reading 'prod/ligwat_prod_01.rst' as Amber NC Restart
+INPUT: Reading input from '../cpp.autoimage.in'
+  [autoimage]
+    AUTOIMAGE: To box center based on center of mass, anchor is first molecule.
+  [trajout autoimage.rst]
+	Writing 'autoimage.rst' as Amber Restart
+---------- RUN BEGIN -------------------------------------------------
+
+PARAMETER FILES (1 total):
+ 0: ligwat.prmtop, 6733 atoms, 2213 res, box: Orthorhombic, 2213 mol, 2211 solvent
+
+INPUT TRAJECTORIES (1 total):
+ 0: 'ligwat_prod_01.rst' is a NetCDF AMBER restart file with coordinates, velocities, time, box, Parm ligwat.prmtop (Orthorhombic box) (reading 1 of 1)
+  Coordinate processing will occur on 1 frames.
+
+OUTPUT TRAJECTORIES (1 total):
+  'autoimage.rst' (1 frames) is an AMBER restart file
+
+BEGIN TRAJECTORY PROCESSING:
+.....................................................
+ACTION SETUP FOR PARM 'ligwat.prmtop' (1 actions):
+  0: [autoimage]
+	Using first molecule as anchor.
+	1 molecules are fixed to anchor: 2
+	2211 molecules are mobile.
+.....................................................
+ACTIVE OUTPUT TRAJECTORIES (1):
+  autoimage.rst (coordinates, velocities, time, box)
+----- ligwat_prod_01.rst (1-1, 1) -----
+100% Complete.
+
+Read 1 frames and processed 1 frames.
+TIME: Avg. throughput= 50.1630 frames / second.
+
+ACTION OUTPUT:
+TIME: Analyses took 0.0000 seconds.
+
+RUN TIMING:
+TIME:		Init               : 0.0000 s (  0.10%)
+TIME:		Trajectory Process : 0.0199 s ( 99.61%)
+TIME:		Action Post        : 0.0000 s (  0.00%)
+TIME:		Analysis           : 0.0000 s (  0.00%)
+TIME:		Data File Write    : 0.0000 s (  0.01%)
+TIME:		Other              : 0.0001 s (  0.00%)
+TIME:	Run Total 0.0200 s
+---------- RUN END ---------------------------------------------------
+TIME: Total execution time: 0.2122 seconds.
+--------------------------------------------------------------------------------
+To cite CPPTRAJ use:
+Daniel R. Roe and Thomas E. Cheatham, III, "PTRAJ and CPPTRAJ: Software for
+  Processing and Analysis of Molecular Dynamics Trajectory Data". J. Chem.
+  Theory Comput., 2013, 9 (7), pp 3084-3095.
+
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min1
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    min2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    nvt heating
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt1
+ERROR: Calculation halted.  Periodic box dimensions have changed too much from their initial values.
+  Your system density has likely changed by a large amount, probably from
+  starting the simulation from a structure a long way from equilibrium.
+
+  [Although this error can also occur if the simulation has blown up for some reason]
+
+  The GPU code does not automatically reorganize grid cells and thus you
+  will need to restart the calculation from the previous restart file.
+  This will generate new grid cells and allow the calculation to continue.
+  It may be necessary to repeat this restarting multiple times if your system
+  is a long way from an equilibrated density.
+
+  Alternatively you can run with the CPU code until the density has converged
+  and then switch back to the GPU code.
+
+    npt2
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    npt3
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+
+CPPTRAJ: Trajectory Analysis. V5.1.0
+    ___  ___  ___  ___
+     | \/ | \/ | \/ | 
+    _|_/\_|_/\_|_/\_|_
+
+| Date/time: 02/20/23 16:08:32
+| Available memory: 89.679 GB
+
+	Reading '../ligwat.prmtop' as Amber Topology
+	Radius Set: modified Bondi radii (mbondi)
+	Reading 'prod/ligwat_prod_00.rst' as Amber NC Restart
+INPUT: Reading input from '../cpp.autoimage.in'
+  [autoimage]
+    AUTOIMAGE: To box center based on center of mass, anchor is first molecule.
+  [trajout autoimage.rst]
+	Writing 'autoimage.rst' as Amber Restart
+---------- RUN BEGIN -------------------------------------------------
+
+PARAMETER FILES (1 total):
+ 0: ligwat.prmtop, 6733 atoms, 2213 res, box: Orthorhombic, 2213 mol, 2211 solvent
+
+INPUT TRAJECTORIES (1 total):
+ 0: 'ligwat_prod_00.rst' is a NetCDF AMBER restart file with coordinates, velocities, time, box, Parm ligwat.prmtop (Orthorhombic box) (reading 1 of 1)
+  Coordinate processing will occur on 1 frames.
+
+OUTPUT TRAJECTORIES (1 total):
+  'autoimage.rst' (1 frames) is an AMBER restart file
+
+BEGIN TRAJECTORY PROCESSING:
+.....................................................
+ACTION SETUP FOR PARM 'ligwat.prmtop' (1 actions):
+  0: [autoimage]
+	Using first molecule as anchor.
+	1 molecules are fixed to anchor: 2
+	2211 molecules are mobile.
+.....................................................
+ACTIVE OUTPUT TRAJECTORIES (1):
+  autoimage.rst (coordinates, velocities, time, box)
+----- ligwat_prod_00.rst (1-1, 1) -----
+100% Complete.
+
+Read 1 frames and processed 1 frames.
+TIME: Avg. throughput= 50.4923 frames / second.
+
+ACTION OUTPUT:
+TIME: Analyses took 0.0000 seconds.
+
+RUN TIMING:
+TIME:		Init               : 0.0000 s (  0.14%)
+TIME:		Trajectory Process : 0.0198 s ( 99.57%)
+TIME:		Action Post        : 0.0000 s (  0.00%)
+TIME:		Analysis           : 0.0000 s (  0.01%)
+TIME:		Data File Write    : 0.0000 s (  0.01%)
+TIME:		Other              : 0.0001 s (  0.00%)
+TIME:	Run Total 0.0199 s
+---------- RUN END ---------------------------------------------------
+TIME: Total execution time: 0.1747 seconds.
+--------------------------------------------------------------------------------
+To cite CPPTRAJ use:
+Daniel R. Roe and Thomas E. Cheatham, III, "PTRAJ and CPPTRAJ: Software for
+  Processing and Analysis of Molecular Dynamics Trajectory Data". J. Chem.
+  Theory Comput., 2013, 9 (7), pp 3084-3095.
+
+    production
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+
+CPPTRAJ: Trajectory Analysis. V5.1.0
+    ___  ___  ___  ___
+     | \/ | \/ | \/ | 
+    _|_/\_|_/\_|_/\_|_
+
+| Date/time: 02/20/23 16:10:48
+| Available memory: 89.359 GB
+
+	Reading '../ligwat.prmtop' as Amber Topology
+	Radius Set: modified Bondi radii (mbondi)
+	Reading 'prod/ligwat_prod_01.rst' as Amber NC Restart
+INPUT: Reading input from '../cpp.autoimage.in'
+  [autoimage]
+    AUTOIMAGE: To box center based on center of mass, anchor is first molecule.
+  [trajout autoimage.rst]
+	Writing 'autoimage.rst' as Amber Restart
+---------- RUN BEGIN -------------------------------------------------
+
+PARAMETER FILES (1 total):
+ 0: ligwat.prmtop, 6733 atoms, 2213 res, box: Orthorhombic, 2213 mol, 2211 solvent
+
+INPUT TRAJECTORIES (1 total):
+ 0: 'ligwat_prod_01.rst' is a NetCDF AMBER restart file with coordinates, velocities, time, box, Parm ligwat.prmtop (Orthorhombic box) (reading 1 of 1)
+  Coordinate processing will occur on 1 frames.
+
+OUTPUT TRAJECTORIES (1 total):
+  'autoimage.rst' (1 frames) is an AMBER restart file
+
+BEGIN TRAJECTORY PROCESSING:
+.....................................................
+ACTION SETUP FOR PARM 'ligwat.prmtop' (1 actions):
+  0: [autoimage]
+	Using first molecule as anchor.
+	1 molecules are fixed to anchor: 2
+	2211 molecules are mobile.
+.....................................................
+ACTIVE OUTPUT TRAJECTORIES (1):
+  autoimage.rst (coordinates, velocities, time, box)
+----- ligwat_prod_01.rst (1-1, 1) -----
+100% Complete.
+
+Read 1 frames and processed 1 frames.
+TIME: Avg. throughput= 44.5891 frames / second.
+
+ACTION OUTPUT:
+TIME: Analyses took 0.0000 seconds.
+
+RUN TIMING:
+TIME:		Init               : 0.0000 s (  0.11%)
+TIME:		Trajectory Process : 0.0224 s ( 86.60%)
+TIME:		Action Post        : 0.0000 s (  0.00%)
+TIME:		Analysis           : 0.0000 s (  0.01%)
+TIME:		Data File Write    : 0.0000 s (  0.02%)
+TIME:		Other              : 0.0034 s (  0.13%)
+TIME:	Run Total 0.0259 s
+---------- RUN END ---------------------------------------------------
+TIME: Total execution time: 0.2139 seconds.
+--------------------------------------------------------------------------------
+To cite CPPTRAJ use:
+Daniel R. Roe and Thomas E. Cheatham, III, "PTRAJ and CPPTRAJ: Software for
+  Processing and Analysis of Molecular Dynamics Trajectory Data". J. Chem.
+  Theory Comput., 2013, 9 (7), pp 3084-3095.
+
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Reading in input files from the directory
+
+CPPTRAJ: Trajectory Analysis. V5.1.0
+    ___  ___  ___  ___
+     | \/ | \/ | \/ | 
+    _|_/\_|_/\_|_/\_|_
+
+| Date/time: 02/20/23 16:12:57
+| Available memory: 89.260 GB
+
+	Reading '../ligwat.prmtop' as Amber Topology
+	Radius Set: modified Bondi radii (mbondi)
+	Reading 'prod/ligwat_prod_02.rst' as Amber NC Restart
+INPUT: Reading input from '../cpp.autoimage.in'
+  [autoimage]
+    AUTOIMAGE: To box center based on center of mass, anchor is first molecule.
+  [trajout autoimage.rst]
+	Writing 'autoimage.rst' as Amber Restart
+---------- RUN BEGIN -------------------------------------------------
+
+PARAMETER FILES (1 total):
+ 0: ligwat.prmtop, 6733 atoms, 2213 res, box: Orthorhombic, 2213 mol, 2211 solvent
+
+INPUT TRAJECTORIES (1 total):
+ 0: 'ligwat_prod_02.rst' is a NetCDF AMBER restart file with coordinates, velocities, time, box, Parm ligwat.prmtop (Orthorhombic box) (reading 1 of 1)
+  Coordinate processing will occur on 1 frames.
+
+OUTPUT TRAJECTORIES (1 total):
+  'autoimage.rst' (1 frames) is an AMBER restart file
+
+BEGIN TRAJECTORY PROCESSING:
+.....................................................
+ACTION SETUP FOR PARM 'ligwat.prmtop' (1 actions):
+  0: [autoimage]
+	Using first molecule as anchor.
+	1 molecules are fixed to anchor: 2
+	2211 molecules are mobile.
+.....................................................
+ACTIVE OUTPUT TRAJECTORIES (1):
+  autoimage.rst (coordinates, velocities, time, box)
+----- ligwat_prod_02.rst (1-1, 1) -----
+100% Complete.
+
+Read 1 frames and processed 1 frames.
+TIME: Avg. throughput= 37.9968 frames / second.
+
+ACTION OUTPUT:
+TIME: Analyses took 0.0000 seconds.
+
+RUN TIMING:
+TIME:		Init               : 0.0003 s (  0.96%)
+TIME:		Trajectory Process : 0.0263 s ( 88.55%)
+TIME:		Action Post        : 0.0000 s (  0.00%)
+TIME:		Analysis           : 0.0000 s (  0.00%)
+TIME:		Data File Write    : 0.0003 s (  0.90%)
+TIME:		Other              : 0.0028 s (  0.10%)
+TIME:	Run Total 0.0297 s
+---------- RUN END ---------------------------------------------------
+TIME: Total execution time: 0.2914 seconds.
+--------------------------------------------------------------------------------
+To cite CPPTRAJ use:
+Daniel R. Roe and Thomas E. Cheatham, III, "PTRAJ and CPPTRAJ: Software for
+  Processing and Analysis of Molecular Dynamics Trajectory Data". J. Chem.
+  Theory Comput., 2013, 9 (7), pp 3084-3095.
+
+    production
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+[-17.376386157546996, 10.09046223456351, 37.55731062667402, 65.02415901878453, 92.49100741089504, 119.95785580300554] 7.152510839516532
+DL Divergence 0.08013564872271142
+[-18.10293931259289, -1.2353081034225255, 15.632323105747844, 32.499954314918206, 49.367585524088575, 66.23521673325894] 6.8104054266533165
+DL Divergence 0.08755086325728946
+[-19.269881447963108, -4.823047711820493, 9.623786024322122, 24.070619760464737, 38.51745349660736, 52.96428723274997] 18.23139208922955
+DL Divergence 0.09169129479176646
+[-21.882645191606716, -3.124945377415081, 15.632754436776558, 34.39045425096819, 53.14815406515983, 71.90585387935147] 4.559252843505098
+DL Divergence 0.06626086134508634
+[-43.41020909523618, -26.724096360652645, -10.037983626069106, 6.648129108514425, 23.33424184309797, 40.0203545776815] -9.370618673297724
+DL Divergence 0.07446459480580458
+[-42.2315491335857, -28.264547204060467, -14.297545274535231, -0.3305433450099997, 13.636458584515246, 27.60346051404047] -20.314553218108337
+DL Divergence 0.08004109805058443
+[-58.02212280120436, -44.09089738422806, -30.159671967251747, -16.228446550275443, -2.297221133299132, 11.634004283677172] -34.61596849048459
+DL Divergence 0.07854514058308269
+[-110.9416953839769, -95.96997971155048, -80.99826403912405, -66.02654836669761, -51.05483269427117, -36.08311702184476] -66.56571215259909
+DL Divergence 0.12500074612261802
+Beginning 0.91802 restart 1
+[-110.9416953839769, -95.96997971155048, -80.99826403912405, -66.02654836669761, -51.05483269427117, -36.08311702184476] -66.09285353094603
+DL Divergence 0.10646331323819506
+Beginning 0.91802 restart 2
+[-109.3132050850401, -92.92669967557327, -76.54019426610645, -60.15368885663963, -43.76718344717281, -27.38067803770599] -66.701833036413
+DL Divergence 0.053642129476463525
+[-261.7942831156799, -223.7603037765991, -185.72632443751831, -147.69234509843756, -109.65836575935677, -71.62438642027601] -139.4480036296356
+DL Divergence 0.15035700071766928
+Beginning 0.98408 restart 1
+[-208.6124852302798, -178.97819841884535, -149.34391160741092, -119.70962479597651, -90.07533798454207, -60.44105117310767] -123.08531727808814
+DL Divergence 0.19554215814722514
+Beginning 0.98408 restart 2
+[-227.99075058062658, -195.12675287746768, -162.26275517430878, -129.3987574711499, -96.534759767991, -63.67076206483213] -133.47747160440719
+DL Divergence 0.12765465954100008
+Beginning 0.98408 restart 3
+[-248.2294254819323, -214.67604098070234, -181.12265647947237, -147.56927197824243, -114.01588747701246, -80.46250297578248] -139.68418133069537
+DL Divergence 0.09015379550799899
+mv: cannot move 'Z1220047717_1~PV-007843182625_1_1_214_PoseIndex_11/' to '/jet/home/egutkin/trajectories2/cache2': No such file or directory
